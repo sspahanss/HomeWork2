@@ -52,3 +52,6 @@ func fibonacci(n: Int) -> [Int] {
 
 fibonacciArray = fibonacci(n: 50)
 print(fibonacciArray)
+ 
+
+// с последним заданием не справился
