@@ -54,4 +54,4 @@ fibonacciArray = fibonacci(n: 50)
 print(fibonacciArray)
  
 
-// с последним заданием не справился
+// с последним заданием не справился((
